@@ -1,4 +1,4 @@
-# KELOMPOK 5_KLASIFIKASI
+# STUDENT DEPRESSION KLASIFIKASI
 ## Latar Belakang
 Depresi di kalangan siswa telah menjadi isu kesehatan mental yang mendesak dan kompleks, terutama pada kelompok usia 15–24 tahun. Menurut WHO, depresi adalah penyebab utama disabilitas global untuk kelompok usia ini. Berbagai faktor seperti tekanan akademik, penggunaan media sosial yang berlebihan, kurangnya dukungan emosional, hingga kondisi ekonomi keluarga turut berperan dalam meningkatnya prevalensi depresi.
 
